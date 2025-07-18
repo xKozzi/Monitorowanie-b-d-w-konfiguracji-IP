@@ -1,0 +1,1 @@
+# Monitorowanie-b-d-w-konfiguracji-IP
